@@ -1,3 +1,0 @@
-Events for energy 17.900778 GeV:
-Cross section pb: 4.6606e-06
-
